@@ -27,8 +27,8 @@ link, plus a short quote or a count.
    logged-in CLIs). It finds the ones that hold your own words: meeting
    transcripts, chat messages, review comments, ticket comments.
 3. You choose the sources. You can also paste text.
-4. One subagent reads each source, in parallel. The report shows the themes
-   that appear in more than one source.
+4. One subagent reads each source, in parallel. The report groups the
+   findings by theme, with evidence from each source.
 
 - **Read-only.** It never posts, comments or sends anything.
 - **Your words or your agent's words.** It splits what you wrote yourself

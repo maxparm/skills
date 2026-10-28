@@ -14,7 +14,7 @@ with other people at work, and how those people react. Every claim carries
 They should leave able to say:
 
 > I know my 3 to 5 strengths and my 3 to 5 things to improve, with the dates
-> and quotes that prove them, and the themes that show in more than one place.
+> and quotes that prove them, grouped by theme.
 
 ## Rules
 
@@ -92,21 +92,27 @@ Done when every subagent has returned its report.
 2. Match the same person across sources (a chat name, a login, an email)
    only when a source proves the match. When a subagent guessed a name, say
    so.
-3. Find the 2 or 3 **themes** that appear in two or more sources. A theme
-   needs evidence from each of them.
-4. Write the report in the format below.
+3. Group every finding by **theme**, not by source. A theme is one way the
+   user works with people, for example "reviewing others' work" or "clear
+   decisions". Put each finding under exactly one theme. A theme can hold
+   strengths and things to improve. Prefer themes with evidence from two or
+   more sources.
+4. Order the themes: the biggest thing to improve first, then the biggest
+   strength. Aim for 4 to 6 themes.
+5. Write the report in the format below.
 
 ## Report format
 
 Keep it short. Use tables. Mark strengths ✅ and things to improve ⚠️.
 
-1. **Scope:** the time range; per source, what was found, what was read in
-   full, and the gaps.
-2. **Per source:** 3 to 5 strengths and 3 to 5 things to improve. Each row:
-   point, evidence, one concrete suggestion. In a written source, each row
-   says its group: **A** (the user's own words) or **B** (an AI agent wrote
-   it for them).
-3. **Themes across sources:** 2 or 3, each with one fix.
+1. **In short:** 1 or 2 sentences: the biggest strength and the biggest
+   thing to improve.
+2. **Scope:** one line: the time range, and per source what was read.
+3. **One section per theme.** The heading names the theme and marks it ✅,
+   ⚠️ or both. A table: point, evidence. Each piece of evidence names its
+   source and date or link. In a written source, it says its group: **A**
+   (the user's own words) or **B** (an AI agent wrote it for them). End the
+   section with one **Fix:** line.
 4. **Limits:** transcript errors, how A and B were sorted, what no source
    could show (calls, in-person talks).
 5. The full paths of the notes files.
