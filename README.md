@@ -38,3 +38,19 @@ link, plus a short quote or a count.
 /maxparm:self-performance-review
 /maxparm:self-performance-review 2026-07-01..2026-09-30
 ```
+
+### `/maxparm:eli5`
+
+Says the last answer again in simple English. It follows ASD-STE100
+Simplified Technical English: short sentences, one idea each, plain words.
+
+- **Same facts.** It runs no tools and adds nothing new.
+- **Clear words.** It explains each technical term in one plain sentence,
+  and gives one concrete example.
+- **Same next step.** It keeps the warnings, numbers, links and the final ask.
+
+```
+/maxparm:eli5
+/maxparm:eli5 the migration part
+/maxparm:eli5 French
+```
