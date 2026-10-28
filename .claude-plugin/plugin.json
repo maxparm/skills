@@ -1,0 +1,10 @@
+{
+  "name": "maxparm",
+  "version": "0.1.0",
+  "description": "Skills Max Parmentier uses every day with Claude Code.",
+  "author": {
+    "name": "Max Parmentier"
+  },
+  "repository": "https://github.com/maxparm/skills",
+  "license": "MIT"
+}
